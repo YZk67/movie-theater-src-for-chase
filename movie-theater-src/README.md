@@ -21,7 +21,7 @@ This is a poorly written application, and we're expecting the candidate to great
   * $2 discount for the movie showing 2nd of the day
 * System can display movie schedule with simple text format
 
-## New Requirements
+## New Requirements(Done)
 * New discount rules; In addition to current rules
   * Any movies showing starting between 11AM ~ 4pm, you'll get 25% discount
   * Any movies showing on 7th, you'll get 1$ discount
